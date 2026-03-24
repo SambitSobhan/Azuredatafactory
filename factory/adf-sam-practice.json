@@ -1,0 +1,9 @@
+{
+	"name": "adf-sam-practice",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7e599cde-a44b-4999-941d-afa7f9b0b164",
+		"tenantId": "70220575-c68d-4e9c-b634-356d0a0117d3"
+	}
+}
